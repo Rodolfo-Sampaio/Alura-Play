@@ -1,21 +1,22 @@
-# Fruta & Fruto - O Sabor da Programação 🍏🍇 <a href="https://github.com/Rodolfo-Sampaio/Fruta-Fruto/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" alt="NPM" align="right"></a>
+# AluraPlay 🎬✨ <a href="https://github.com/Rodolfo-Sampaio/Alura-Play/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" alt="NPM" align="right"></a>
 
-Seu destino digital de receitas irresistíveis! Aqui, exploramos não apenas sabores culinários, mas também aplicamos as melhores práticas de HTML e CSS. Utilizando o poderoso Bootstrap 4, aceleramos o desenvolvimento, aprimorando a funcionalidade e a responsividade do site, através do curso:
-### Bootstrap 4: criando uma landing page responsiva da [Alura](https://cursos.alura.com.br/course/bootstrap-landing-page) ⭐
+Explore a experiência moderna e repleta de elementos da AluraPlay, a plataforma de vídeos que se adapta a você. Este projeto é construído com HTML e CSS, destacando o poder do Flexbox e a metodologia mobile-first, a partir do curso:
+### CSS: Flexbox e layouts responsivos da [Alura](https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos) ⭐
 
 <br>
 
 ### Layout Responsivo para Mobile, Tablet e Desktop
 ___
-![fruto](https://github.com/Rodolfo-Sampaio/Fruta-Fruto/assets/96917363/3d400c40-c6ff-4c5b-bc5e-18e67deec619)
+![aluraplay](https://github.com/Rodolfo-Sampaio/Alura-Play/assets/96917363/8a37d43a-decb-40a9-a289-95b97ec9a464)
+
 
 
 
 <br>
 
-##  Explore o Fruta & Fruto! 👀
+##  Explore o AluraPlay! 👀
 
-Veja nosso site adaptável em 🚩[Fruta & Fruto](https://fruta-fruto-amber.vercel.app/) e experimente diferentes tamanhos de tela pressionando `F12` e usando o Toggle Device Toolbar `Ctrl + Shift + M`.
+Veja nosso site adaptável em 🚩[AluraPlay](https://alura-play.vercel.app/) e experimente diferentes tamanhos de tela pressionando `F12` e usando o Toggle Device Toolbar `Ctrl + Shift + M`.
 
 
 <br>
@@ -24,7 +25,6 @@ Veja nosso site adaptável em 🚩[Fruta & Fruto](https://fruta-fruto-amber.verc
 <span style="letter-spacing: 10px">
    <img src="https://skillicons.dev/icons?i=html" title="HTML" width="60px"/>
    <img src="https://skillicons.dev/icons?i=css" title="CSS" width="60px"/>
-   <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="60px"/>
 </span>
 
 #
@@ -33,15 +33,15 @@ Veja nosso site adaptável em 🚩[Fruta & Fruto](https://fruta-fruto-amber.verc
 
 ### Instrutor(a):
 
-<a href="https://github.com/JulianaAmoasei">
-  <img src="https://avatars.githubusercontent.com/u/32266030?v=4" alt="Juliana Amoasei" style="border-radius: 50%; width: 50px; height: 50px;">
+<a href="https://www.linkedin.com/in/luanalvesdev/">
+  <img src="https://media.licdn.com/dms/image/C4E03AQEYV6-AbrWjSA/profile-displayphoto-shrink_200_200/0/1644505759993?e=1708560000&v=beta&t=Voswju-FBFZP0N1L7Ltj7FBRt2CtDC4-VwS8JEu2FTc" alt="Luan Alves" style="border-radius: 50%; width: 50px; height: 50px;">
 </a>
 
-[Juliana Amoasei](https://github.com/JulianaAmoasei)
+[Luan Alves](https://www.linkedin.com/in/luanalvesdev/)
 <br>
 <br>
 
-### "Olá, chef de código! 👨‍🍳 Bem-vindo à 'Cozinha Code', onde cada linha de código é um ingrediente para o sucesso digital! Se curtiu, dê um [`Follow`](https://github.com/Rodolfo-Sampaio) e vamos preparar juntos deliciosos desafios de código! 🍲💻 #CodeCuisine"
+### "Olá, mestre da transmissão digital! 🎬 Bem-vindo ao 'Estúdio Code', onde cada linha de código é uma cena para o sucesso online! Se você gostou dessa produção, dê um [`Follow`](https://github.com/Rodolfo-Sampaio) e vamos criar juntos desafios incríveis de código! 🎥💻 #CodeStream"
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFAF0&height=100&section=footer" alt="Waving Capsule Render">
