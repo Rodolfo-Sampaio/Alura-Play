@@ -41,7 +41,7 @@ Veja nosso site adaptável em 🚩[AluraPlay](https://alura-play.vercel.app/) e 
 <br>
 <br>
 
-### "Olá, mestre da transmissão digital! 🎬 Bem-vindo ao 'Estúdio Code', onde cada linha de código é uma cena para o sucesso online! Se você gostou dessa produção, dê um [`Follow`](https://github.com/Rodolfo-Sampaio) e vamos criar juntos desafios incríveis de código! 🎥💻 #CodeStream"
+#### Obrigado por visitar meu Git. Se você der um [`Follow`](https://github.com/Rodolfo-Sampaio), ficarei feliz em retribuir!🚀💻
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFAF0&height=100&section=footer" alt="Waving Capsule Render">
